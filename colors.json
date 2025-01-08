@@ -1,0 +1,14 @@
+{
+    "colors": [
+      { "name": "Ruby Red", "hex": "#E0115F" },
+      { "name": "Ocean Blue", "hex": "#0077BE" },
+      { "name": "Forest Green", "hex": "#228B22" },
+      { "name": "Royal Purple", "hex": "#7851A9" },
+      { "name": "Sunset Orange", "hex": "#FD5E53" },
+      { "name": "Golden Yellow", "hex": "#FFD700" },
+      { "name": "Midnight Blue", "hex": "#191970" },
+      { "name": "Rose Pink", "hex": "#FF66CC" },
+      { "name": "Emerald", "hex": "#50C878" },
+      { "name": "Crimson", "hex": "#DC143C" }
+    ]
+  }
